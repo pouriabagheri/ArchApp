@@ -7,7 +7,6 @@ import org.koin.android.viewmodel.dsl.viewModel
 import org.koin.dsl.module
 
 val featureDetailModule = module {
-    factory { GetUserDetailUseCase(get()) }
     viewModel { (argsLogin: String) -> DetailViewModel(get(), get(), argsLogin) }
     viewModel { (argsImageUrl: String) ->DetailImageViewModel(argsImageUrl) }
 }
