@@ -5,7 +5,7 @@ import android.widget.ImageView
 import androidx.databinding.BindingAdapter
 import androidx.recyclerview.widget.RecyclerView
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
-import coil.api.load
+import coil.load
 import coil.transform.CircleCropTransformation
 import com.hamedsafari.domain.utils.Resource
 import com.hamedsafari.model.User

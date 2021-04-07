@@ -27,12 +27,12 @@ object Releases {
 }
 
 object Versions {
-    const val kotlin = "1.3.71"
-    const val gradle = "3.6.2"
-    const val compileSdk = 28
+    const val kotlin = "1.4.21"
+    const val gradle = "4.1.0"
     const val minSdk = 23
-    const val targetSdk = 28
-    const val appCompat = "1.1.0"
+    const val targetSdk = 29
+    const val compileSdk = 29
+    const val appCompat = "1.2.0"
     const val coreKtx = "1.2.0"
     const val constraintLayout = "1.1.3"
     const val junit = "4.12"
@@ -46,15 +46,15 @@ object Versions {
     const val coroutines = "1.3.5"
     const val koin = "2.1.5"
     const val lifecycle = "2.2.0"
-    const val nav = "2.3.0-alpha04"
+    const val nav = "2.3.4"
     const val room = "2.2.5"
-    const val recyclerview = "1.0.0"
-    const val coil = "0.9.5"
+    const val recyclerview = "1.1.0"
+    const val coil = "1.1.1"
     const val mockwebserver = "2.7.5"
     const val archCoreTest = "2.1.0"
     const val androidJunit = "1.1.0"
     const val mockk = "1.9.3"
-    const val fragmentTest = "1.2.1"
+    const val fragmentTest = "1.2.5"
     const val databinding = "3.6.1"
 }
 

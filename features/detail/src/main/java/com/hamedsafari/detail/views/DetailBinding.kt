@@ -3,7 +3,7 @@ package com.hamedsafari.detail.views
 import android.widget.ImageView
 import androidx.databinding.BindingAdapter
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
-import coil.api.load
+import coil.load
 import coil.transform.CircleCropTransformation
 import com.hamedsafari.domain.utils.Resource
 
