@@ -21,14 +21,15 @@ object Modules {
     const val featureDetail = ":features:detail"
 }
 
-object Releases {
+object Releases{
+
     const val versionCode = 1
     const val versionName = "1.0"
 }
 
 object Versions {
     const val kotlin = "1.6.10"
-    const val gradle = "3.6.4"
+    const val gradle = "7.0.2"
     const val minSdk = 23
     const val targetSdk = 30
     const val compileSdk = 30
