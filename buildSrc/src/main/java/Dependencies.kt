@@ -27,11 +27,11 @@ object Releases {
 }
 
 object Versions {
-    const val kotlin = "1.4.21"
-    const val gradle = "4.1.0"
+    const val kotlin = "1.6.10"
+    const val gradle = "3.6.4"
     const val minSdk = 23
-    const val targetSdk = 29
-    const val compileSdk = 29
+    const val targetSdk = 30
+    const val compileSdk = 30
     const val appCompat = "1.2.0"
     const val coreKtx = "1.2.0"
     const val constraintLayout = "1.1.3"
@@ -47,7 +47,7 @@ object Versions {
     const val koin = "2.1.5"
     const val lifecycle = "2.2.0"
     const val nav = "2.3.4"
-    const val room = "2.2.5"
+    const val room = "2.4.2"
     const val recyclerview = "1.1.0"
     const val coil = "1.1.1"
     const val mockwebserver = "2.7.5"
